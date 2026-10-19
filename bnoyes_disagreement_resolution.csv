@@ -1,0 +1,4 @@
+WOCProjectID,ProjectOwnerNetID,ValidatorNetID,Field,AuthorValue,ValidatorValue,AdjudicatedValue,ResolutionType(AuthorKept ValidatorKept/Compromise),PostDiscussAgreementstatus(Yes/No),KeyEvidence,Comments
+N/A,bnoyes,ccolli78,Column Names,Incorrect column names,Column names should match required format,Correct column names,ValidatorKept,Yes,Column names did not match the required format,Agreed to correct column names
+metagenome-atlas/atlas,bnoyes,ccolli78,Currentstatus,Active,Inactive,Inactive,ValidatorKept,Yes,Last commit was before March 2026,Agreed project should be Inactive
+helske_kfas,bnoyes,ccolli78,Currentstatus,Active,Inactive,Inactive,ValidatorKept,Yes,Last commit was before the March 2026,Agreed project should be Inactive
